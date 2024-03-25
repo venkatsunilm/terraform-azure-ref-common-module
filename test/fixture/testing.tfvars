@@ -1,1 +1,1 @@
-location = "francecentral"
+location = "westeurope"
