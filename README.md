@@ -9,7 +9,7 @@ This modules is responsible for deploying the common stuff required for the refe
 ```hcl
 module "tf-ref-common-module" {
   source                           = "../../"
-  location                         = "francecentral"
+  location                         = "westeurope"
   tenant_id                        = var.tenant_id
 }
 ```
